@@ -46,7 +46,7 @@ The schedule is the main module that brings everything together. It represents t
 ## Getting Started
 To utilize this scheduling system, ensure you have all the required modules and dependencies. Import the necessary classes from the modules and create instances as needed.
 
-\```python
+```python
 from schedule import Schedule
 from event import Event
 from event_container import Vehicle, Duty
@@ -55,7 +55,7 @@ from break_rule import BreakRule, ContinuousBreakRule, FixedBreakRule
 from abc import ABC
 from typing import List
 import unittest
-\```
+```
 
 Then, instantiate and manipulate these objects to create your desired schedule.
 
