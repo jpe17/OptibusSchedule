@@ -55,8 +55,6 @@ from break_rule import BreakRule, ContinuousBreakRule, FixedBreakRule
 from abc import ABC
 from typing import List
 import unittest
-
-# ... other necessary imports
 \```
 
 Then, instantiate and manipulate these objects to create your desired schedule.
